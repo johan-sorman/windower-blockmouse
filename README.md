@@ -1,7 +1,2 @@
 # Block Mouse
-Automatically blocks mouse inputs in Windower 4.
-
-Commands:
-
-None. Just load the addon in windower console.
-lua load blockmouse
+Updated version found in https://github.com/johan-sorman/Windower-addons
